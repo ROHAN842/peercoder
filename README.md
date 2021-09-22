@@ -25,5 +25,11 @@
 - Leetcode, InterviewBit and HackerRank practice problems are mentioned in it in order to prepare for interviews ✊
 - If peer wants to meet at some location and do peercoding at some place, then they can share their location 📍
 
+## What is Peer Coder? 🤔
+
+#### Remote pair programming is something developers have grappled with since well before the pandemic began. 
+#### Peer Coder is ideal for Online Interviewing of Developers as well as Learning to code from Friends.
+#### Peer just needs to send same Room Name/id to another peer in order to join a room where apart from practicing problems they can communicate also by doing normal chat as well as video chat with each other.
+
 
 
