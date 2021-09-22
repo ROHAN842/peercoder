@@ -16,11 +16,13 @@
 ## Overview 👀
 <img src="images/peercoder1.png">
 <img src="images/peercoder2.png">
+<img src="images/video-chat.jpg">
 
 - Interview Preparation with Peer 👨‍💻
 - Real time video chat 📹 as well as normal chat 💬 with Peer
 - Clean UI ⚡
 - Online compiler facility is also there where peers can test their optimized, as well as Brute Force approach 👨🏻‍💻
+- Leetcode, InterviewBit and HackerRank practice problems are mentioned in it in order to prepare for interviews ✊
 - If peer wants to meet at some location and do peercoding at some place, then they can share their location 📍
 
 
