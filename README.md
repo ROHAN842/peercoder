@@ -17,6 +17,11 @@
 <img src="images/peercoder1.png">
 <img src="images/peercoder2.png">
 
-- 🎓 I am 3rd Year Student at VIT BHOPAL
-- 🎮 I'm majoring in Game Development
+- Interview Preparation with Peer 👨‍💻
+- Real time video chat 📹 as well as normal chat 💬 with Peer
+- Clean UI ⚡
+- Online compiler facility is also there where peers can test their optimized, as well as Brute Force approach 👨🏻‍💻
+- If peer wants to meet at some location and do peercoding at some place, then they can share their location 📍
+
+
 
