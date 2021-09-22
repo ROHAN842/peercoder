@@ -34,7 +34,8 @@
 
 ## How it works? 🤔
 - **Open the website [https://peercoder.herokuapp.com/](https://peercoder.herokuapp.com/)**
-- **Peer just needs to send same Room Name/id to another peer in order to join a room where apart from practicing problems they can share location also they can communicate by doing normal chat as well as video chat with each other.**
+- **Peer just needs to send same Room Name/id to another peer in order to join a room where apart from practicing problems they can share location, also they can communicate by doing normal chat as well as video chat with each other.**
+- **For Video Chat, peer just need to copy a unique id and send it to peer with whom he/she want to chat.**
 
 ## Dependencies 🗃
 
