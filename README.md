@@ -1,4 +1,4 @@
-# [PEER CODER](https://shreyshreyansh.github.io/Peer-Coder-Web/) ⭐
+# [Peercoder](https://peercoder.herokuapp.com/) ⭐
 
 ![React Badge](http://img.shields.io/badge/Powered%20By-React-blue?style=for-the-badge&logo=)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=&logoColor)&nbsp;
