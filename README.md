@@ -12,5 +12,12 @@
 
 [![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://peercoder.herokuapp.com/)
 [![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/ROHAN842/peercoder)
+
+## Overview 👀
 <img src="images/peercoder1.png">
 <img src="images/peercoder2.png">
+- **Real time code syncing among peers 👨‍💻**
+- **Executes code in Java, Python, C++, C 💻**
+- **Real time video and audio call 📹**
+- **Clean UI ⚡**
+
