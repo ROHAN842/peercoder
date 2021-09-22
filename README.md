@@ -16,7 +16,7 @@
 ## Overview 👀
 <img src="images/peercoder1.png">
 <img src="images/peercoder2.png">
-- 🎓 I am 3rd Year Student at VIT BHOPAL
 
+- 🎓 I am 3rd Year Student at VIT BHOPAL
 - 🎮 I'm majoring in Game Development
 
