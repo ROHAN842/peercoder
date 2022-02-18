@@ -14,9 +14,11 @@
 [![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/ROHAN842/peercoder)
 
 ## Overview 👀
-<img src="images/peercoder1.png">
-<img src="images/peercoder2.png">
-<img src="images/video-chat.jpg">
+<img src="images/Peercoder9.jpg">
+<img src="images/Peercoder8.jpg">
+<img src="images/videochat5.jpg">
+<img src="images/videochat2.jpg">
+
 
 - Interview Preparation with Peer 👨‍💻
 - Real time video chat 📹 as well as normal chat 💬 with Peer
