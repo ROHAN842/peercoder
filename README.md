@@ -22,7 +22,7 @@
 
 - Interview Preparation with Peer 👨‍💻
 - Real time video chat 📹 as well as normal chat 💬 with Peer
-- Multi user 👬🏼 group video chat 📹 feature is also available in peercoder.
+- Multi user 👬🏼 group video chat 📹 feature is also available in peercoder
 - Clean UI ⚡
 - Online compiler facility is also there where peers can test their optimized, as well as Brute Force approach 👨🏻‍💻
 - Leetcode, InterviewBit and HackerRank practice problems are mentioned in it in order to prepare for interviews ✊
