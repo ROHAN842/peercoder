@@ -22,6 +22,7 @@
 
 - Interview Preparation with Peer 👨‍💻
 - Real time video chat 📹 as well as normal chat 💬 with Peer
+- Multi user 👬🏼 group video chat 📹 feature is also available in peercoder.
 - Clean UI ⚡
 - Online compiler facility is also there where peers can test their optimized, as well as Brute Force approach 👨🏻‍💻
 - Leetcode, InterviewBit and HackerRank practice problems are mentioned in it in order to prepare for interviews ✊
@@ -38,6 +39,9 @@
 - **Open the website [https://peercoder.herokuapp.com/](https://peercoder.herokuapp.com/)**
 - **Peer just needs to send same Room Name/id to another peer in order to join a room where apart from practicing problems they can share location, also they can communicate by doing normal chat as well as video chat with each other.**
 - **For Video Chat, peer just need to copy a unique id and send it to peer with whom he/she want to chat.**
+- **For group video chat part, user may join meeting as host or as an attendee. Also in it audio and video controls can be easily controlled by the user.**
+- **Screen sharing feature is also available for every user in case of group video chat.**
+
 
 ## Dependencies 🗃
 
