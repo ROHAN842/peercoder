@@ -1,4 +1,4 @@
-# [Peercoder](https://peercoder.herokuapp.com/) ⭐
+# [Peercoder](https://peercoder.adaptable.app/) ⭐
 
 ![React Badge](http://img.shields.io/badge/Powered%20By-React-blue?style=for-the-badge&logo=)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=&logoColor)&nbsp;
@@ -10,7 +10,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 
 
-[![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://peercoder.herokuapp.com/)
+[![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://peercoder.adaptable.app/)
 [![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/ROHAN842/peercoder)
 
 ## Overview 👀
@@ -36,7 +36,7 @@
 
 
 ## How it works? 🤔
-- **Open the website [https://peercoder.herokuapp.com/](https://peercoder.herokuapp.com/)**
+- **Open the website [https://peercoder.adaptable.app/](https://peercoder.adaptable.app/)**
 - **Peer just needs to send same Room Name/id to another peer in order to join a room where apart from practicing problems they can share location, also they can communicate by doing normal chat as well as video chat with each other.**
 - **For Video Chat, peer just need to copy a unique id and send it to peer with whom he/she want to chat.**
 - **For group video chat part, user may join meeting as host or as an attendee. Also in it audio and video controls can be easily controlled by the user.**
